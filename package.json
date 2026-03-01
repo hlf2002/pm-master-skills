@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "level-js": "^6.1.0"
+  },
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}
